@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "164609748661",
+    "project_id": "black-box-aa875",
+    "storage_bucket": "black-box-aa875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164609748661:android:f7d733e21af4e0a50e18fc",
+        "android_client_info": {
+          "package_name": "com.dartbase.blackbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164609748661-o3qhhugbg76j7j67d1lngv9j0g0fvm41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dartbase.blackbox",
+            "certificate_hash": "1791eee776ea78cb83b9033431ab8fcc1230e2d8"
+          }
+        },
+        {
+          "client_id": "164609748661-1e52v1v1q69e45eoii100bp1999jv68j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC80bRlPZTsQK8oOefqLRpNGtbRK75MjcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164609748661-1e52v1v1q69e45eoii100bp1999jv68j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
